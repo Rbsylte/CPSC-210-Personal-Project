@@ -1,0 +1,64 @@
+[
+    {
+        "character": [
+            {
+                "constitution": 12,
+                "race": "Owlin",
+                "strength": 11,
+                "level": 3,
+                "comradesLost": 0,
+                "health": 0,
+                "inventory": [],
+                "armourClass": 11,
+                "charisma": 11,
+                "intelligence": 13,
+                "wisdom": 10,
+                "dexterity": 10,
+                "name": "HootHoot",
+                "maxHealth": 11,
+                "enemiesSlay": 0,
+                "class": "Artificer"
+            },
+            {
+                "constitution": 10,
+                "race": "Demon",
+                "strength": 10,
+                "level": 3,
+                "comradesLost": 0,
+                "health": 0,
+                "inventory": [],
+                "armourClass": 8,
+                "charisma": 8,
+                "intelligence": 11,
+                "wisdom": 13,
+                "dexterity": 12,
+                "name": "King",
+                "maxHealth": 8,
+                "enemiesSlay": 0,
+                "class": "Fighter"
+            }
+        ],
+        "name": "OwlHouse"
+    },
+    {
+        "character": [{
+            "constitution": 14,
+            "race": "Winter",
+            "strength": 17,
+            "level": 3,
+            "comradesLost": 0,
+            "health": 0,
+            "inventory": [],
+            "armourClass": 13,
+            "charisma": 13,
+            "intelligence": 13,
+            "wisdom": 13,
+            "dexterity": 15,
+            "name": "Drago",
+            "maxHealth": 13,
+            "enemiesSlay": 0,
+            "class": "Barbarian"
+        }],
+        "name": "Winter Is Coming"
+    }
+]

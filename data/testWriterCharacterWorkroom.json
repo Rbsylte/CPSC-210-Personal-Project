@@ -1,0 +1,41 @@
+[{
+    "character": [
+        {
+            "constitution": 0,
+            "race": "Teifling",
+            "strength": 0,
+            "level": 3,
+            "comradesLost": 0,
+            "health": 0,
+            "inventory": [],
+            "armourClass": 0,
+            "charisma": 0,
+            "intelligence": 0,
+            "wisdom": 0,
+            "dexterity": 0,
+            "name": "Clairisa",
+            "maxHealth": 0,
+            "enemiesSlay": 0,
+            "class": "Druid"
+        },
+        {
+            "constitution": 0,
+            "race": "Giant",
+            "strength": 0,
+            "level": 3,
+            "comradesLost": 0,
+            "health": 0,
+            "inventory": [],
+            "armourClass": 0,
+            "charisma": 0,
+            "intelligence": 0,
+            "wisdom": 0,
+            "dexterity": 0,
+            "name": "Bjone",
+            "maxHealth": 0,
+            "enemiesSlay": 0,
+            "class": "Paladin"
+        }
+    ],
+    "name": "Campaign Room"
+}]
